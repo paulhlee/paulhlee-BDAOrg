@@ -15,4 +15,4 @@ I am a former oilfield engineer looking to expand my career into Data Science. I
 
 **Credit Average and Employment Duration on loan default**
 In this chart, the denser the white contours, the more delinquent loans there are. Based on this observation, most of the delinquent loans are from people who have less than 200 days of EmploymentDuration. 
-![alt text](https://github.com/paulhlee/paulhlee-BDAOrg/blob/master/prosperloan.png?raw=true | width=150)
+![alt text](https://github.com/paulhlee/paulhlee-BDAOrg/blob/master/prosperloan.png?raw=true)

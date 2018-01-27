@@ -1,7 +1,7 @@
 # About Me
-**Name:** Hao Lee
-**Major:** Master in Business Administration
-**Status:** 2nd Year
+**Name:** Hao Lee   
+**Major:** Master in Business Administration   
+**Status:** 2nd Year   
 **Undergrad:** University of Pennsylvania
 
 
